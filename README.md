@@ -1,3 +1,5 @@
+# Web Mining Module 2. Jarred Gastreich
+
 # Python Data Structures and Notebooks
 
 Complete the tasks in the Python Notebook in this repository.
